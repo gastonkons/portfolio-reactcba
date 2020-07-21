@@ -1,2 +1,2 @@
 # portfolio-reactcba
-Frontend portfolio of project to React Córdoba 
+Frontend portfolio of the project React Córdoba!
